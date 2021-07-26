@@ -1,3 +1,3 @@
-# Study Machine Learning
+# Study MachineLearning
 ### KNeighborsclassifier
 ### Scikit-learn
