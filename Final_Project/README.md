@@ -11,7 +11,7 @@
 - 최종 발표: 10/8
   - 나머지 일정 WBS 참조
 
-- DS - DE 역할 분담![image-20210827230959954](md-images/image-20210827230959954.png)
+- DS - DE 역할 분담![image-20210827230959954](image-20210827230959954.png)
 
 - data : youtube, 뉴스 기사 크롤링, FinanceDataReader( 한국거래소 자료)
 
